@@ -1,11 +1,11 @@
-### Hi there, I'm Lane Floyd.
+### Hi there, I'm Lane.
 
 ## I'm a developer, student, and avid gamer!
 - 💻 I'm currently working on building a [website][website] for a business!
 - 👨‍🎓 I'm currently learning PHP, ReactJS, JS, NodeJS, Apache, etc.
 - ☕️ I'm currently seeking more contracting work for web dev/SaaS developement.
 - 👨‍💻 I'm looking for a Summer 2021 Internship as a Software Engineer to further my experience.
-- 🙌 2020 Goals: Finish website(95% done), and develope more projects.
+- 🙌 2020 Goals: Finish website (95% done), and develope more projects.
 - ⚡ Extra Fact: Currently hold a security clerance through the US Military.
 
 ### Connect W/ Me:
@@ -33,10 +33,12 @@
 <br />
 <br />
 
+---
+
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Laneciar's Github Stats" src="https://github-readme-stats.laneciar.vercel.app/api?username=laneciar&show_icons=true&hide_border=true" />
+  <img align="left" alt="Laneciar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=laneciar&show_icons=true&hide_border=true" />
 
 </details>
 
