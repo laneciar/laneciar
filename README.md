@@ -35,12 +35,12 @@
 
 ---
 
-<details>
+<!-- <details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Laneciar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=laneciar&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 <br />
 <br />
