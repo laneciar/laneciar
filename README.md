@@ -48,9 +48,6 @@
 
 </details> -->
 
-<br />
-<br />
-
 [website]: https://equalityfits.com
 [webscrapper]: https://www.linkedin.com/in/lane-floyd-57b75a162/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACbpD68BX_ZlscYD1W4xaEMkzanE92gnEYw,1589842492739)/
 [linkedin]: https://www.linkedin.com/in/lane-floyd-57b75a162/
