@@ -35,7 +35,9 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  [![Laneciar's github stats](https://github-readme-stats.vercel.app/api?username=laneciar)](https://github.com/laneciar/github-readme-stats)
+
+  <img align="left" alt="Laneciar's Github Stats" src="https://github-readme-stats.laneciar.vercel.app/api?username=laneciar&show_icons=true&hide_border=true" />
+
 </details>
 
 <br />
