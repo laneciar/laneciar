@@ -6,7 +6,7 @@
 - ☕️ I'm currently seeking more contracting work for web dev/SaaS developement.
 - 👨‍💻 I'm looking for a Summer 2021 Internship as a Software Engineer to further my experience.
 - 🙌 2020 Goals: Finish website (95% done), and develope more projects.
-- ⚡ Extra Fact: Currently hold a security clerance through the US Military.
+- ⚡ Extra Fact: Currently hold a security clearance  through the US Military.
 
 ### Connect W/ Me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
