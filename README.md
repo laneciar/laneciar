@@ -1,4 +1,4 @@
-### Hi there, I'm Lane.
+# Hi there, I'm Lane.
 
 ## I'm a developer, student, and avid gamer!
 - 💻 I'm currently working on building a [website][website] for a business!
@@ -30,10 +30,16 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
+
+### Current/Upcoming Project
+- CPP Stock Market Financial [WebScraper(50% Complete)][webscrapper]
+- Contracted to build [website][website] for apparel company(95% done).
+- Political website for parsing voter demographics SaaS project(Upcoming)
+- Python algrothmic trader(Upcoming)
+- Mobile Clicker Game(Upcoming)
+
 <br />
 
----
 
 <!-- <details>
   <summary>:zap: Github Stats</summary>
@@ -46,6 +52,7 @@
 <br />
 
 [website]: https://equalityfits.com
+[webscrapper]: https://www.linkedin.com/in/lane-floyd-57b75a162/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACbpD68BX_ZlscYD1W4xaEMkzanE92gnEYw,1589842492739)/
 [linkedin]: https://www.linkedin.com/in/lane-floyd-57b75a162/
 [clerancejobs]: https://www.clearancejobs.com/profile/
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
