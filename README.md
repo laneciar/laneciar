@@ -5,7 +5,7 @@
 - 👨‍🎓 I'm currently learning PHP, ReactJS, JS, NodeJS, Apache, etc.
 - ☕️ I'm currently seeking more contracting work for web dev/SaaS developement.
 - 👨‍💻 I'm looking for a Summer 2021 Internship as a Software Engineer to further my experience.
-- 🙌 2020 Goals: Finish website (95% done), and develope more projects.
+- 🙌 2020 Goals: Finish website projects, and develope more projects.
 - ⚡ Extra Fact: Currently hold a security clearance  through the US Military.
 
 ### Connect W/ Me:
@@ -33,8 +33,8 @@
 
 ### Current/Upcoming Project
 - CPP Stock Market Financial [WebScraper(50% Complete)][webscrapper]
-- Contracted to build [website][website] for apparel company(95% done).
-- Political website for parsing voter demographics SaaS project(Upcoming)
+- Contracted to build [website][website] for apparel company(done).
+- Website to display stock/option data into graphs to find advantages in the NYSE ie. graphing the Greeks(Current)
 - Python algrothmic trader(Upcoming)
 - Mobile Clicker Game(Upcoming)
 
