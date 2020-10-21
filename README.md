@@ -33,7 +33,7 @@
 
 ### Current/Upcoming Project
 - CPP Stock Market Financial [WebScraper][webscrapper]
-- Equality Fits Apparell[website][website]
+- Equality Fits Apparell [Website][website]
 - Stock Data Normalization/Visualization  with Web Caching and Database management(Current Project)
 - Python algrothmic trader(Upcoming)
 
