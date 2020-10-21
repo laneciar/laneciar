@@ -32,11 +32,10 @@
 <br />
 
 ### Current/Upcoming Project
-- CPP Stock Market Financial [WebScraper(50% Complete)][webscrapper]
-- Contracted to build [website][website] for apparel company(done).
-- Website to display stock/option data into graphs to find advantages in the NYSE ie. graphing the Greeks(Current)
+- CPP Stock Market Financial [WebScraper][webscrapper]
+- Equality Fits Apparell[website][website]
+- Stock Data Normalization/Visualization  with Web Caching and Database management(Current Project)
 - Python algrothmic trader(Upcoming)
-- Mobile Clicker Game(Upcoming)
 
 <br />
 
